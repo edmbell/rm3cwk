@@ -12,7 +12,7 @@ const generatedBibEntries = {
     },
     "Blemker2023Springbok": {
         "abstract": "Springbok\u2019s AI-driven framework converts 2D MRI into detailed 3D muscle models, offering relevant architectural parallels for neuroimaging.",
-        "author": "Blemker, S. and et al.",
+        "author": "Blemker, S. and Baxter, J. and Franz, J. R. and Martin, J. A. and Chung, C. and Aiello, R. and Case, T. and Ward, S. R.",
         "doi": "10.1148/ryai.220132",
         "journal": "Radiology: AI",
         "keywords": "type:translation, 2D-to-3D, muscle, segmentation, transferable",
@@ -46,7 +46,7 @@ const generatedBibEntries = {
     },
     "Kazerouni2022Survey": {
         "abstract": "A broad survey of diffusion model architectures and applications across medical imaging domains, with attention to 3D extensions.",
-        "author": "Kazerouni, A. and Aghdam, E. K. and Heidari, M. and et al.",
+        "author": "Kazerouni, A. and Aghdam, E. K. and Heidari, M. and Golmohammadi, H. and Azizi, S. and Hassanzadeh, H. R.",
         "doi": "10.48550/arXiv.2211.07804",
         "journal": "arXiv preprint",
         "keywords": "type:survey, diffusion, medical imaging, review",
@@ -57,7 +57,7 @@ const generatedBibEntries = {
     },
     "Khader2022MedicalDiffusion": {
         "abstract": "This work adapts DDPMs for volumetric brain MRI, offering improved fidelity and spatial coherence in 3D image synthesis.",
-        "author": "Khader, F. and Mueller-Franzes, G. and Tayebi Arasteh, S. and et al.",
+        "author": "Khader, F. and Mueller-Franzes, G. and Tayebi Arasteh, S. and Haarburger, C. and Kuhl, C. and Wang, T. and Han, T. and Nebelung, S. and Kather, J. N. and Truhn, D.",
         "doi": "10.48550/arXiv.2211.03364",
         "journal": "arXiv preprint",
         "keywords": "type:diffusion, 3D, MRI, denoising, volumetric",
@@ -90,7 +90,7 @@ const generatedBibEntries = {
     },
     "MuellerFranzes2024DDPMvsGAN": {
         "abstract": "Compares DDPMs and GANs for low-dose breast MRI reconstruction, offering insights into trade-offs and generalizability of generative models.",
-        "author": "M\u00fcller-Franzes, G. and Niehues, J. M. and Khader, F. and et al.",
+        "author": "Müller-Franzes, G. and Niehues, J. M. and Khader, F. and Tayebi Arasteh, S. and Haarburger, C. and Kuhl, C. and Wang, T. and Han, T. and Nebelung, S. and Kather, J. N. and Truhn, D.",
         "doi": "10.1186/s41747-024-00451-3",
         "journal": "European Radiology Experimental",
         "keywords": "type:comparison, GAN, DDPM, low-dose, breast MRI",
