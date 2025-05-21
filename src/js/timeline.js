@@ -20,7 +20,7 @@ const timeline = (function () {
 
     var references = {};
 
-    var selectorColors = ['#1a8e6a', '#f9ba02', '#6762a2', '#eb298d', '#7cc522', '#ec6502'];
+    var selectorColors = ['#d71609', '#ffce1b', '#24ff36', '#2e3cfe', '#8233b6', '#ff25a5'];
 
     var niceIntervals = [1, 2, 5, 10, 20, 50, 100, 200, 500, 1000];
     var maxYearIntervals = 10;
