@@ -54,7 +54,7 @@ var editable = true;
  * @type {{html: string, id: string}}
  */
 var paper = {
-    html: '(depreciated link for <b><a href="http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/eurovis14-star.pdf" target="_blank">SurVis</a></b>)',
+    html: '(updated link to: <b><a href="https://www.visus.uni-stuttgart.de/documentcenter/forschung/visualisierung_und_visual_analytics/eurovis14-star.pdf" target="_blank">SurVis</a></b>)',
     id: 'Beck2016Visual'
 };
 
