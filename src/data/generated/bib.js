@@ -10,15 +10,16 @@ const generatedBibEntries = {
         "url": "https://arxiv.org/abs/1809.05231",
         "year": "2018"
     },
-    "Blemker2023Springbok": {
-        "abstract": "Springbok\u2019s AI-driven framework converts 2D MRI into detailed 3D muscle models, offering relevant architectural parallels for neuroimaging.",
-        "author": "Blemker, S. and Baxter, J. and Franz, J. R. and Martin, J. A. and Chung, C. and Aiello, R. and Case, T. and Ward, S. R.",
-        "doi": "10.1148/ryai.220132",
-        "journal": "Radiology: AI",
-        "keywords": "type: 2D-to-3D, AI, anatomy, deep-learning, muscle, musculoskeletal, reconstruction, segmentation, sports-science, transferable, visualization",
-        "title": "Springbok Analytics: Automatic 3D Segmentation from 2D MRI",
+    "Ito2024SpringbokACL": {
+        "abstract": "This study quantifies muscle volume deficits across 38 lower extremity muscles in collegiate football athletes post-ACL reconstruction, using Springbok Analytics' AI-assisted MRI segmentation platform. Persistent atrophy in several muscle groups highlights the importance of individualized rehabilitation protocols. The framework offers transferable insights into volumetric analysis in neuroimaging.",
+        "author": "Ito, N. and Martin, J. A. and Joachim, M. R. and Blemker, S. S. and Opar, D. A. and Kliethermes, S. A. and Heiderscheit, B. C. and HAMIR Consortium Investigators",
+        "doi": "10.1177/03635465241313235",
+        "journal": "The American Journal of Sports Medicine",
+        "keywords": "type: 2D, 3D, ACL, AI, clinical-application, imaging, lower-extremity, muscle-volume, rehabilitation, segmentation, sports-science, transferable",
+        "title": "Quantifying Muscle Volume Deficits Among 38 Lower Extremity Muscles in Collegiate Football Athletes After Anterior Cruciate Ligament Reconstruction",
         "type": "article",
-        "year": "2023"
+        "url": "https://doi.org/10.1177/03635465241313235",
+        "year": "2024"
     },
     "Dorjsembe2023MedDDPM": {
         "abstract": "Med-DDPM presents a conditional diffusion model enabling semantic 3D brain MRI synthesis via controlled image generation from annotated guidance.",
